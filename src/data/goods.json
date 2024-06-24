@@ -1,24 +1,111 @@
 [
   {
-    "itemphotos": ["umaibo01.jpg", "umaibo02.jpg"],
-    "name": "うまい棒サラミ味",
-    "price": 12,
+    "itemphotos": ["H670-PLUS.jpg"],
+    "name": "PRIME H670-PLUS D4",
+    "price": 8980,
     "state": true,
-    "text": "スパイスとスモークのきいたサラミスティックをうまい棒で再現しました。",
-    "id": 27002,
-    "colors": "黄",
-    "maker": "（株）やおきん",
-    "url": "umaibo"
+    "text": "インテル ® H670 (LGA 1700) ATXマザーボードで、第13世代&第12世代インテル ® プロセッサーに対応",
+    "id": 1,
+    "colors": "白",
+    "maker": "ASUS",
+    "url": "H670-PLUS"
   },
   {
-    "itemphotos": ["kabayakisan01.jpg", "kabayakisan02.jpg", "kabayakisan03.jpg"],
-    "name": "蒲焼さん太郎",
-    "price": 15,
+    "itemphotos": ["ddr4-8gb2.jpg"],
+    "name": "DDR4 8GB ×2",
+    "price": 3000,
     "state": true,
-    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
-    "id": 4971749110335,
+    "text": "DDR4 3200MHz 8GB×2枚組メモリ",
+    "id": 2,
     "colors": "赤",
     "maker": "（株）菓道",
     "url": "kabayakisan"
+  },
+  {
+    "itemphotos": ["h370.jpg"],
+    "name": "ASUS Intel H370 搭載 マザーボード LGA1151対応 TUF H370-PRO GAMING 【ATX】",
+    "price": 9000,
+    "state": true,
+    "text": "",
+    "id": 3,
+    "colors": "黒",
+    "maker": "ASUS",
+    "url": "motherboardh370"
+  },
+  {
+    "itemphotos": [
+      "kabayakisan01.jpg",
+      "kabayakisan02.jpg",
+      "kabayakisan03.jpg"
+    ],
+    "name": "マザーボードz690",
+    "price": 15,
+    "state": true,
+    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
+    "id": 2,
+    "colors": "赤",
+    "maker": "（株）菓道",
+    "url": "motherboardz690"
+  },
+  {
+    "itemphotos": [
+      "kabayakisan01.jpg",
+      "kabayakisan02.jpg",
+      "kabayakisan03.jpg"
+    ],
+    "name": "マザーボードz690",
+    "price": 15,
+    "state": true,
+    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
+    "id": 2,
+    "colors": "赤",
+    "maker": "（株）菓道",
+    "url": "motherboardz690"
+  },
+  {
+    "itemphotos": [
+      "kabayakisan01.jpg",
+      "kabayakisan02.jpg",
+      "kabayakisan03.jpg"
+    ],
+    "name": "マザーボードz690",
+    "price": 15,
+    "state": true,
+    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
+    "id": 2,
+    "colors": "赤",
+    "maker": "（株）菓道",
+    "url": "motherboardz690"
+  },
+  {
+    "itemphotos": [
+      "kabayakisan01.jpg",
+      "kabayakisan02.jpg",
+      "kabayakisan03.jpg"
+    ],
+    "name": "マザーボードz690",
+    "price": 15,
+    "state": true,
+    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
+    "id": 2,
+    "colors": "赤",
+    "maker": "（株）菓道",
+    "url": "motherboardz690"
+  },
+
+  {
+    "itemphotos": [
+      "kabayakisan01.jpg",
+      "kabayakisan02.jpg",
+      "kabayakisan03.jpg"
+    ],
+    "name": "マザーボードz690",
+    "price": 15,
+    "state": true,
+    "text": "魚肉のすり身を板状にし、うなぎの蒲焼きをイメージしたタレで味付けしました。 うなぎの蒲焼きという高級品を駄菓子で気軽に食べられるように企画した商品です。",
+    "id": 2,
+    "colors": "赤",
+    "maker": "（株）菓道",
+    "url": "motherboardz690"
   }
 ]
